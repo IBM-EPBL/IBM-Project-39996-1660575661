@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Responsive Web Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        *{
+            box-sizing:border-box;
+        }
+        .menu{
+            float:left;
+            width:20%;
+            text-align:center;
+        }
+        .menu a{
+            background-color:cadetblue;
+            padding:10px;
+            margin-top:8px;
+            display:inline-block;
+            width:100%;
+            color:black;
+        }
+        .right{
+            background-color:#4f6a8c;
+            float:right;
+            width:auto;
+            padding:15px;
+            margin-top:7px;
+            text-align:center;
+        }
+        .main{
+            float:left;
+            width:60%;
+            padding:0 20px;
+        }
+        @media only screen and (max-width:700px){
+            .menu, .main, .right{
+                width:auto
+            }
+        }
+    </style>
+    </head>
+    <body style="font-family:Verdana; color:#aaaaaa;">
+        <div style="background-color:#e5e5e5;padding:15px;text-align:center;">
+            <h1>welcome to our site</h1>
+        </div>
+        <div style="overflow:auto">
+            <div class="menu">
+                <a href="https://www.rolls-roycemotorcars.com/en_GB/home.html">Link-1</a>
+                <a href="https://auto.mahindra.com/suv/thar">Link-2</a>
+                <a href="https://auto.mahindra.com/suv/xuv700">Link-3</a>
+                <a href="https://www.jaguar.in/index.html">Link-4</a> 
+                <a href="https://www.mercedes-benz.co.in/passengercars.html?group=all&subgroup=see-all&view=BODYTYPE">Link-5</a>
+            
+            </div>
+            <br>
+            <div class="main">
+                <h2>horseless carriage</h2>
+                <p>
+                    A car is a wheeled motor vehicle that is used for transportation. Most definitions of cars say that they run primarily on roads, seat one to eight people, have four wheels, and mainly transport people instead of goods.
+                </p>
+            </div>
+            <br>
+            <div class="right">
+                <h2>About</h2>
+                <p>popular car brands in India  </p>
+            </div>
+        </div>
+        <div style="background-color: #745238;text-align: center;padding: 10px;margin-top: 7px;">©Azar. All rights reserved.</div>
+    </body>
+</html>
