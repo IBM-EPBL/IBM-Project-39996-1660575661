@@ -1,0 +1,91 @@
+# IBM-Project-39996-1660575661
+
+Smart Fashion Recommender Application
+
+## Category: Cloud App Development
+
+
+**Batch Name :** B4-4M6E
+
+---
+
+**Team ID :** PNT2022TMID49253
+
+**Team Size :** 5
+
+**Team Leader :** VALAGURUNATHAN K
+
+**Team member :** ARUNKUMAR A
+
+**Team member :** AZARUDHIN S
+
+**Team member :** VIJAYAN R
+
+**Team member :** BALAKRISHNAN K
+
+---
+**Industry Mentor(s) Name :** Krishna Chaitanya
+
+**Faculty Mentor(s) Name :** POOBALAN A
+
+---
+
+**Degree	:**	
+Bachelor of Engineering/Technology
+
+**Branch	:**	
+Computer Science Engineering
+
+**College	:**	
+UNIVERSITY  COLLEGE OF ENGINEERING -DINDIGUL
+
+---
+
+
+
+
+
+## Assignment  
+
+ - [Team Leader : VALAGURUNATHAN K](https://github.com/IBM-EPBL/IBM-Project-39996-1660575661/tree/main/Assignment%201(Valagurunathan%20K))
+ - [Team member : ARUNKUMAR A](https://github.com/IBM-EPBL/IBM-Project-39996-1660575661/tree/main/Assignment%201(Arunkumar%20A))
+ - [Team member : AZARUDHIN S](https://github.com/IBM-Project-39996-1660575661/tree/main/Assignment%201(Azarudhin%20S))
+ - [Team member : VIJAYAN R](https://github.com/IBM-EPBL/IBM-Project-39996-1660575661/tree/main/Asignment%201(Vijayan%20R))
+ - [Team member : BALAKRISHNAN K](https://github.com/IBM-EPBL/IBM-Project-39996-1660575661/tree/main/Asignment%201(Balakrishnan%20K))
+
+
+## Project Design & Planning
+- [Ideation Phase](https://github.com/IBM-EPBL/IBM-EPBL/IBM-Project-39996-1660575661/tree/main/Ideation%20Phase)
+- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-39996-1660575661/tree/main/project%20design)
+- [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-39996-1660575661/tree/main/Project%20Design%20Phase%20-II)
+- [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-39996-1660575661/tree/main/PROJECT%20PLANNING%20PHASE)
+
+
+## Tech Stack
+
+**Frontend:** Html+Css+JavaScript
+
+**Backend:** Python, Flask , Docker
+
+**Database:** IBM DB2
+
+
+
+
+## Authors
+
+- [@VALAGURUNATHAN](https://github.com/Valagurunathan)
+- [@ARUNKUMAR](https://github.com/arunkumarar04)
+- [@AZARUDHIN](https://github.com/Azarudhin004)
+- [@VIJAYAN](https://github.com/vijayan30112001)
+- [@BALAKRISHNAN](https://github.com/balakrishnan005)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at csguru997@gmail.com
+
+
+
+
+![Thank You :-)](https://i0.wp.com/paulaspoint.com/wp-content/uploads/2018/04/thank-you.jpg?fit=275%2C183)
